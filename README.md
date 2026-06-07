@@ -209,5 +209,5 @@ The AI module suggests updates. The graph algorithms make the route decision.
 ## GitHub Repository
 
 ```text
-[https://github.com/your-username/crisisroute](https://github.com/semih896/crisisroute)
+https://github.com/semih896/crisisroute
 ```
